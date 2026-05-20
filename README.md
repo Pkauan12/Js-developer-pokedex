@@ -161,7 +161,3 @@ Developed as a study project focused on:
 * Responsive interfaces
 
 ---
-
-# ⭐ If you liked this project
-
-Leave a ⭐ on the repository and feel free to contribute.

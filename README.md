@@ -20,7 +20,9 @@ This project was developed to practice front-end fundamentals, API integration, 
 
 # 📸 Preview
 
-## Desktop
+## <img width="1874" height="942" alt="image" src="https://github.com/user-attachments/assets/f26584a3-79ac-4870-8296-7177e3cffdf8" />
+
+
 
 <p align="center">
   <img src="./assets/images/pokedex-preview.png" alt="Pokédex Preview" width="900">

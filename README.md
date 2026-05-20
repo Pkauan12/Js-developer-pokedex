@@ -20,20 +20,14 @@ This project was developed to practice front-end fundamentals, API integration, 
 
 # 📸 Preview
 
-## <img width="1874" height="942" alt="image" src="https://github.com/user-attachments/assets/f26584a3-79ac-4870-8296-7177e3cffdf8" />
+## Computer
+
+<img width="1874" height="942" alt="image" src="https://github.com/user-attachments/assets/f26584a3-79ac-4870-8296-7177e3cffdf8" />
 
 
+## Mobile
+<img width="686" height="946" alt="image" src="https://github.com/user-attachments/assets/4df28bed-ffb0-42ae-b05f-7ed5e597a6db" />
 
-<p align="center">
-  <img src="./assets/images/pokedex-preview.png" alt="Pokédex Preview" width="900">
-</p>
-
-## <img width="686" height="946" alt="image" src="https://github.com/user-attachments/assets/4df28bed-ffb0-42ae-b05f-7ed5e597a6db" />
-
-
-<p align="center">
-  <img src="./assets/images/pokedex-mobile.png" alt="Pokédex Mobile Preview" width="300">
-</p>
 
 ---
 

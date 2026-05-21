@@ -1,3 +1,21 @@
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 2rem 0;
+    padding: 0 1rem;
+}
+
+
+.title img {
+    max-width: 100%;
+    width: 400px;
+    height: auto;
+
+
+}
+
 .pokemons {
     display: grid;
     grid-template-columns: 1fr;
@@ -33,17 +51,56 @@
     padding: 1rem;
     border-radius: 1rem;
 
+    position: relative;
+    overflow: hidden;
+
+    isolation: isolate;
+
+} 
+
+
+.pokemon::before{
+    content: "";
+    position: absolute;
+
+    width: 150px;
+    height: 150px;
+    
+    right: -20px;
+    bottom: -20px;
+
+
+    background-image: url(/assets/images/cinema.png);
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    background-position: -1rem -1rem;
+
+    opacity: 0.15;
+    transform: rotate(-15deg);
+
+    z-index: -1;
+
+}
+
+.pokemon:hover {
+    filter: brightness(1.1);
+    padding: 1.25rem;
 }
 .pokemon .number{
     color: #000;
     opacity: .3;
     text-align: right;
     font-size: .625rem;
+
+    
 }
 .pokemon .name{
     text-transform: capitalize;
     color: #fff;
     margin-bottom: .25rem;
+
+    
     
 }
 .pokemon .detail {
@@ -51,6 +108,8 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+
+  
 }
 .pokemon .detail .types {
     padding: 0;
@@ -88,6 +147,16 @@
     background-color: #6c79db;
     border: none;
     border-radius: 1rem;
+}
+
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 1rem;
+
 }
 
 

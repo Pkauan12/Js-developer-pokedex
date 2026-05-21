@@ -45,7 +45,5 @@ loadMoreButton.addEventListener('click', () => {
         loadMorePokemons(offset, limit)
     }
     
-
-    loadMorePokemons(offset, limit)
 })
 

@@ -22,11 +22,13 @@ This project was developed to practice front-end fundamentals, API integration, 
 
 ## Computer
 
-<img width="1874" height="942" alt="image" src="https://github.com/user-attachments/assets/f26584a3-79ac-4870-8296-7177e3cffdf8" />
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/6d36dc6a-285a-48be-88ac-ae218713cf1c" />
+
 
 
 ## Mobile
-<img width="686" height="946" alt="image" src="https://github.com/user-attachments/assets/4df28bed-ffb0-42ae-b05f-7ed5e597a6db" />
+<img width="1005" height="884" alt="image" src="https://github.com/user-attachments/assets/d2d05e50-7c12-4701-856c-e007f8234617" />
+
 
 
 ---
